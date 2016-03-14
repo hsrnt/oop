@@ -287,6 +287,7 @@
 				AAEA5DF81C96411A00C71265 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
