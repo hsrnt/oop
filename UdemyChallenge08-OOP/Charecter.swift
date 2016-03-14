@@ -19,5 +19,11 @@ class Character {
         }
     }
     
-    func attack() {}
+    func attack() {
+        hp -= 10
+    }
+    
+    init(name: String) {
+        self.name = name
+    }
 }
